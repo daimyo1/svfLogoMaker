@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/f6b94dcb-1826-4d43-bf37-cca9e4798365)# SVG Logo Maker
+# SVG Logo Maker
 
 ## Description
 
@@ -28,11 +28,7 @@ SO THAT I don't have to pay a graphic designer
 
 ## Mock-Up
 
-![U<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="150" cy="100" r="80" fill="GREEN" />
-            <text x="150" y="125" font-size="60" text-anchor="middle" fill="WHITE">SVG</text>
-        </svg>ploading logo.svg…]()
-
+![logo](https://github.com/user-attachments/assets/f6b94dcb-1826-4d43-bf37-cca9e4798365)
  Video Link- https://drive.google.com/file/d/1bEt7KFqSF1lBgmkvM30LmvXW4bvi1Blo/view
 
 
